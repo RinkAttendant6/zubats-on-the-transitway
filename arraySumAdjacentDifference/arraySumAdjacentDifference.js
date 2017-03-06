@@ -8,6 +8,7 @@ function arraySumAdjacentDifference(inputArray) {
     }
     
     return s;
+//     hello
 }
 
 export default arraySumAdjacentDifference;
